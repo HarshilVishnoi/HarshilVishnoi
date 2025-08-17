@@ -1,8 +1,10 @@
-<img width="1584" height="396" alt="Learning Never Stop Cover" src="https://github.com/user-attachments/assets/7c16008e-03f5-48a6-8a34-6418a8a8f33b" />
+<img width="1584" height="396" alt="Name Cover" src="https://github.com/user-attachments/assets/6b1071bc-12fe-4293-94f2-6d68375ef860" />
+
+
 
 <br></br>
-<h1 align="center">Hi 👋, I'm Harshit Vishnoi</h1>
-<h3 align="center">A passionate Data Analyst from India | Turning data into decisions 📊 | Proudly Indian 🇮🇳 | Curious & creative</h3>
+<h1 align="center">“ Hii👋, Welcome to my GitHub!! 🚀 Explore my projects and ideas in action.”</h1>
+<h3 align="center">I'm a passionate Data Analyst from India | Turning data into decisions 📊 | Curious & creative</h3>
 
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilvishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="harshilvishnoi" /> </p>
@@ -10,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on **Customers Churn Prediction**
+- 🔭 I’m currently working on **Customers Churn Prediction Project**
 
 - 🌱 I’m currently studying **Machine Learning**
 
