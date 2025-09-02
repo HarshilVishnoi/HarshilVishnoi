@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **9harshitvishnoi2003@gmail.com**
 
-- ⚡ Fun fact **I make mistakes… but at least I make them hilarious 🤣💥**
+- ⚡ Fun fact **The first “computer bug” was an actual bug**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
