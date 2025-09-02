@@ -4,7 +4,7 @@
 
 <br></br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=3500&pause=1200&color=F2F2F2&center=true&vCenter=true&width=1100&lines=Hii+%F0%9F%91%8B%2C+Welcome+to+my+GitHub!!;%F0%9F%9A%80+Explore+my+projects+and+ideas+in+action." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=35&duration=3200&pause=1200&color=F2F2F2&center=true&vCenter=true&width=1100&lines=Hii+%F0%9F%91%8B%2C+Welcome+to+my+GitHub!!;%F0%9F%9A%80+Explore+my+projects+and+ideas+in+action." alt="Typing SVG" />
 </p>
 <h3 align="center">I'm a passionate Data Analyst from India | Turning data into decisions 📊 | Curious & creative</h3>
 
